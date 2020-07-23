@@ -1,0 +1,7 @@
+C:\project\readlater\Entities\Entities\bin\Debug\Entities.dll.config
+C:\project\readlater\Entities\Entities\bin\Debug\Entities.dll
+C:\project\readlater\Entities\Entities\bin\Debug\Entities.pdb
+C:\project\readlater\Entities\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\project\readlater\Entities\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\project\readlater\Entities\Entities\obj\Debug\Entities.dll
+C:\project\readlater\Entities\Entities\obj\Debug\Entities.pdb
